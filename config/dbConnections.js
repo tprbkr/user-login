@@ -1,4 +1,4 @@
 module.exports = {
-    mongoCloudURI: 'cloud db connection url',
-    mongoLocalURI: 'local db connection url'
+    mongoCloudURI: 'cloud mongoDb connection url',
+    mongoLocalURI: 'local mongoDb connection url'
 };
